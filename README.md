@@ -1,1 +1,1 @@
-# asteriskos-interlans-casu-study
+# asteriskos-interlans-case-study
